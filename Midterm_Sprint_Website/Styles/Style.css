@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.top-page {
+  background: linear-gradient(#1a3a48, #5c747f);
+  padding: 10px;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  position: relative;
+}
+.top-page-left {
+  letter-spacing: 3px;
+  color: white;
+  font-family: "Lobster", cursive;
+  position: absolute;
+  top: 35px;
+  left: -100px;
+}
+.top-page-right {
+  position: relative;
+  top: 10px;
+}
+.Logo {
+  position: absolute;
+  left: 60px;
+  top: 40px;
+}
+a {
+  color: white;
+}
+.Appetizers {
+  position: absolute;
+  color: white;
+  letter-spacing: 3px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  left: -875px;
+  top: -600px;
+}
+.Main-Courses {
+  position: absolute;
+  color: white;
+  letter-spacing: 3px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  left: -425px;
+  top: -600px;
+}
+.Beverages {
+  position: absolute;
+  color: white;
+  letter-spacing: 3px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  left: 25px;
+  top: -600px;
+}
+.Desserts {
+  position: absolute;
+  color: white;
+  letter-spacing: 3px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  left: 475px;
+  top: -600px;
+}
+.Information {
+  position: absolute;
+  color: white;
+  letter-spacing: 3px;
+  text-align: left;
+  font-family: "Lobster", cursive;
+  left: 50px;
+  top: -170px;
+}
+button {
+  position: absolute;
+  left: 750px;
+  top: 120px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+}
